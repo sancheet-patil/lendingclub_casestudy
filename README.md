@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Lending Club is the largest online loan marketplace, facilitating personal loans, business loans and financing of medical procedures.Borrowers can easily access lower       interest rate loans through a fast online interface.
 > Lending Club wants to understand the driving factors behind loan default, i.e. the driver variables which are strong indicators of default. The company can utilise this  knowledge for its portfolio and risk assessment.
 > As a data scientist working  for Lending Club analyze the  dataset containing  information about past loan applicants using EDA to understand how consumer attributes and loan attributes influence the tendency of default.
